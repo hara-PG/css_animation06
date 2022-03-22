@@ -1,0 +1,14 @@
+.bt-area a {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: #222222;
+  text-decoration: none;
+  letter-spacing: 0.2em;
+  display: block;
+  width: 250px;
+  padding: 9px 0 8px;
+  text-align: center;
+  box-sizing: border-box;
+  border: solid 1px #222222;
+}
